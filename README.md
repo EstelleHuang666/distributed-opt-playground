@@ -1,1 +1,1 @@
-# distributed-opt-playground
+# Distributed Optimization Playground
